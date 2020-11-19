@@ -8,7 +8,15 @@ ul {
   margin: 0;
 }
 
-a {
-  text-decoration: none;
-  color: white;
+div {
+  overflow: inherit;
+}
+
+button {
+  font-size: 110%;
+  min-width: min-content;
+}
+
+mat-icon {
+  margin: 0;
 }
